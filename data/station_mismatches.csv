@@ -1,0 +1,25 @@
+date,high_station,high_state,high_county,high_aqi,high_lat,high_lon,low_station,low_state,low_county,low_aqi,low_lat,low_lon,distance_miles,aqi_gap
+2023-06-08,ALBANY COUNTY HEALTH DEPT,New York,Albany,166.0,42.64225,-73.75464,ZAMPIERI STATE OFFICE BUILDING,Vermont,Chittenden,11.0,44.480278,-73.214444,129.8,155.0
+2023-06-08,,Massachusetts,Berkshire,163.0,42.452299,-73.239648,ZAMPIERI STATE OFFICE BUILDING,Vermont,Chittenden,11.0,44.480278,-73.214444,140.0,152.0
+2023-06-08,ALBANY COUNTY HEALTH DEPT,New York,Albany,166.0,42.64225,-73.75464,PROCTOR MAPLE RESEARCH CTR,Vermont,Chittenden,16.0,44.52839,-72.86884,137.6,150.0
+2023-06-08,,Massachusetts,Berkshire,163.0,42.452299,-73.239648,PROCTOR MAPLE RESEARCH CTR,Vermont,Chittenden,16.0,44.52839,-72.86884,144.5,147.0
+2023-06-08,Criscuolo Park-New Haven,Connecticut,New Haven,172.0,41.3014,-72.902871,MILLER STATE PARK,New Hampshire,Hillsborough,31.0,42.86183,-71.878626,119.9,141.0
+2023-06-08,ALBANY COUNTY HEALTH DEPT,New York,Albany,166.0,42.64225,-73.75464,MILLER STATE PARK,New Hampshire,Hillsborough,31.0,42.86183,-71.878626,96.6,135.0
+2023-06-08,,Massachusetts,Berkshire,163.0,42.452299,-73.239648,MILLER STATE PARK,New Hampshire,Hillsborough,31.0,42.86183,-71.878626,74.9,132.0
+2023-06-08,Mohawk Mt-Cornwall,Connecticut,Litchfield,163.0,41.821342,-73.297257,MILLER STATE PARK,New Hampshire,Hillsborough,31.0,42.86183,-71.878626,102.1,132.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Oak Park,Michigan,Oakland,33.0,42.463063,-83.183199,112.0,118.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,East 7 Mile,Michigan,Wayne,34.0,42.43084,-83.000138,102.6,117.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Maple Canyon,Ohio,Franklin,36.0,40.0877,-82.959773,144.5,115.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,BUFFALO,New York,Erie,36.0,42.876907,-78.809526,147.8,115.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Five Points,Ohio,Summit,40.0,41.087862,-81.541532,46.8,111.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Chippewa,Ohio,Medina,41.0,41.0604,-81.9239,58.1,110.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,East HS,Ohio,Summit,42.0,41.063526,-81.468956,47.3,109.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Shadyside,Ohio,Belmont,43.0,39.9679,-80.7464,124.1,108.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Smoky Row Near Road,Ohio,Franklin,43.0,40.11107,-83.065415,146.8,108.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,,West Virginia,Ohio,44.0,40.114876,-80.700972,114.8,107.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Canton Fire St8,Ohio,Stark,44.0,40.786804,-81.394153,65.3,107.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,DETROIT-SOUTHWEST (DET-SW),Michigan,Wayne,45.0,42.302778,-83.106667,103.9,106.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,,West Virginia,Hancock,47.0,40.427372,-80.592318,95.9,104.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Harrison,Pennsylvania,Allegheny,47.0,40.617488,-79.727664,110.0,104.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,Canton,Ohio,Stark,47.0,40.800717,-81.373,64.3,104.0
+2023-06-26,Painesville,Ohio,Lake,151.0,41.726811,-81.242156,,West Virginia,Brooke,49.0,40.394651,-80.611813,97.6,102.0

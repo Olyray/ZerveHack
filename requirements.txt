@@ -1,0 +1,9 @@
+pandas
+numpy
+geopy
+streamlit
+pydeck
+fastapi
+uvicorn
+pgeocode
+requests

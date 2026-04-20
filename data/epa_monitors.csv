@@ -1,0 +1,992 @@
+lat,lon,state,county,site_name
+18.009558,-66.627249,Puerto Rico,Ponce,RESIDENTIAL AREA
+18.198712,-66.052237,Puerto Rico,Caguas,
+18.383983,-65.618888,Puerto Rico,Fajardo,Fajardo
+18.420089,-66.150615,Puerto Rico,Bayamon,Bayamon
+18.440095,-66.11446,Puerto Rico,Guaynabo,Guaynabo
+19.060655,-155.579159,Hawaii,Hawaii,Naalehu-TS
+19.117561,-155.778136,Hawaii,Hawaii,HOVE
+19.2039,-155.480183,Hawaii,Hawaii,Pahala
+19.4308,-155.2578,Hawaii,Hawaii,Hawaii Volcanoes NP - Kilauea Visitors Center
+19.509778,-155.913417,Hawaii,Hawaii,Kona
+19.555444,-155.102028,Hawaii,Hawaii,Mountain View 23
+19.611914,-155.055037,Hawaii,Hawaii,KS Hawaii
+19.618158,-155.971242,Hawaii,Hawaii,Kailua-Kona
+19.717562,-155.11053,Hawaii,Hawaii,Hilo
+19.977467,-155.798067,Hawaii,Hawaii,Waikoloa
+20.869627,-156.493626,Hawaii,Maui,Kahului
+21.303382,-157.871171,Hawaii,Honolulu,Sand Island
+21.30758,-157.85542,Hawaii,Honolulu,Honolulu
+21.323745,-158.088613,Hawaii,Honolulu,Kapolei
+25.471944,-80.482778,Florida,Miami-Dade,HOMESTEAD FIRE STATION
+25.794222,-80.215556,Florida,Miami-Dade,Miami Fire Station
+25.900911,-97.507783,Texas,Cameron,Brownsville East 6th Street
+25.941944,-80.326389,Florida,Miami-Dade,Palm Springs Fire Station
+26.053889,-80.256944,Florida,Broward,Daniela Banu NCORE
+26.0711,-97.1577,Texas,Cameron,Isla Blanca State Park Road
+26.073536,-80.33845,Florida,Broward,Vista View Park
+26.132677,-80.169817,Florida,Broward,Near Road - Fort Lauderdale
+26.288622,-98.152066,Texas,Hidalgo,Edinburg East Freddy Gonzalez Drive
+26.291088,-80.096353,Florida,Broward,Pompano Highlands
+26.294167,-80.176389,Florida,Broward,Coconut Creek
+26.456944,-80.092778,Florida,Palm Beach,DELRAY BEACH
+26.687606,-80.219619,Florida,Palm Beach,Lamstein Lane
+26.724786,-80.666447,Florida,Palm Beach,Belle Glade
+27.172458,-80.240689,Florida,Martin,Stuart
+27.290556,-82.507222,Florida,Sarasota,Bee Ridge Park
+27.422433,-97.300869,Texas,Kleberg,National Seashore
+27.599444,-99.533333,Texas,Webb,World Trade Bridge
+27.785866,-82.739875,Florida,Pinellas,Azalea Park
+27.804489,-97.431553,Texas,Nueces,Corpus Christi Huisache
+27.811817,-97.465703,Texas,Nueces,Dona Park
+27.946688,-82.731767,Florida,Pinellas,St. Petersburg College
+27.955133,-82.469532,Florida,Hillsborough,Munro Street (Near-Road)
+27.96565,-82.2304,Florida,Hillsborough,SYDNEY
+28.028889,-81.972222,Florida,Polk,Baptist Childrens' Home
+28.053611,-80.628611,Florida,Brevard,Melbourne
+28.596389,-81.3625,Florida,Orange,WINTER PARK
+28.704607,-100.451156,Texas,Maverick,Eagle Pass
+28.746111,-81.310556,Florida,Seminole,Sanford (Seminole Community College)
+28.964394,-95.354974,Texas,Brazoria,Freeport South Avenue I
+29.162997,-98.589158,Texas,Atascosa,Von Ormy Highway 16
+29.206667,-81.0525,Florida,Volusia,DAYTONA BLIND SERVICES
+29.254474,-94.861289,Texas,Galveston,Galveston 99th Street
+29.275381,-98.311692,Texas,Bexar,Calaveras Lake
+29.30265,-103.17781,Texas,Brewster,Big Bend NP
+29.51509,-98.620166,Texas,Bexar,San Antonio Northwest
+29.529432,-98.391403,Texas,Bexar,San Antonio Interstate 35
+29.566112,-82.26608,Florida,Alachua,Paynes Prairie Farm
+29.583047,-95.015544,Texas,Harris,Seabrook Friendship Park
+29.670025,-95.128508,Texas,Harris,Houston Deer Park #2
+29.679301,-90.779731,Louisiana,Terrebonne,Houma
+29.695729,-95.499219,Texas,Harris,Houston Bayland Park
+29.723333,-95.635833,Texas,Harris,Houston Westhollow
+29.733726,-95.257593,Texas,Harris,Clinton
+29.767997,-95.220582,Texas,Harris,Houston East
+29.770698,-95.031232,Texas,Harris,Baytown
+29.81453,-95.38769,Texas,Harris,Houston North Loop
+29.828086,-95.284096,Texas,Harris,Houston North Wayside
+29.863957,-94.317802,Texas,Jefferson,Hamshire
+29.900314,-90.109836,Louisiana,Jefferson,Marrero
+29.901036,-95.326137,Texas,Harris,Houston Aldine
+29.922894,-93.909018,Texas,Jefferson,Port Arthur Memorial School
+29.943164,-89.97625,Louisiana,St. Bernard,Chalmette Vista
+29.996013,-90.11819,Louisiana,Orleans,I-610
+30.041238,-90.272826,Louisiana,Jefferson,Kenner
+30.135797,-81.633981,Florida,Duval,Mandarin
+30.194167,-93.866944,Texas,Orange,
+30.203984,-91.125925,Louisiana,Iberville,Geismar
+30.22611,-92.042908,Louisiana,Lafayette,Lafayette / USGS
+30.227798,-93.579965,Louisiana,Calcasieu,Vinton
+30.262347,-93.284906,Louisiana,Calcasieu,Westlake
+30.262778,-81.606833,Florida,Duval,Pepsi Place
+30.263204,-97.712891,Texas,Travis,Austin Webberville Rd
+30.300833,-89.395916,Mississippi,Hancock,Waveland
+30.350302,-95.425128,Texas,Montgomery,Conroe Relocated
+30.35386,-97.69166,Texas,Travis,Austin North Interstate 35
+30.354722,-81.547778,Florida,Duval,Sunny Acres
+30.354944,-97.761803,Texas,Travis,Austin North Hills Drive
+30.378287,-88.53393,Mississippi,Jackson,Pascagoula
+30.390369,-89.049778,Mississippi,Harrison,Gulfport Youth Court
+30.439722,-84.346389,Florida,Leon,Tallahassee Community College
+30.461981,-91.179219,Louisiana,East Baton Rouge,Capitol
+30.497478,-87.880258,Alabama,Baldwin,"FAIRHOPE, Alabama"
+30.500642,-91.213556,Louisiana,West Baton Rouge,Port Allen
+30.503287,-90.377212,Louisiana,Tangipahoa,Hammond
+30.525367,-87.20355,Florida,Escambia,Ellyson Industrial Park
+30.628333,-96.362777,Texas,Brazos,Bryan Finfeather Road
+30.770181,-88.087761,Alabama,Mobile,CHICKASAW
+30.8486,-83.2933,Georgia,Lowndes,Valdosta
+31.122419,-97.431052,Texas,Bell,Temple Georgia
+31.169805,-81.495035,Georgia,Glynn,Brunswick
+31.177824,-92.410746,Louisiana,Rapides,Alexandria
+31.291293,-110.951513,Country Of Mexico,SONORA,Nogales Sonora Institute ITN
+31.32389,-89.2922,Mississippi,Forrest,Hattiesburg
+31.337204,-110.936718,Arizona,Santa Cruz,NOGALES POST OFFICE
+31.513097,-82.749971,Georgia,Coffee,General Coffee
+31.5776,-84.0998,Georgia,Dougherty,Albany
+31.765685,-106.455227,Texas,El Paso,El Paso Chamizal
+31.787885,-106.683324,New Mexico,Dona Ana,6ZN Santa Teresa
+31.796218,-106.584434,New Mexico,Dona Ana,6ZM Desert View
+31.870259,-102.334745,Texas,Ector,Odessa Gonzales
+32.003712,-106.599715,New Mexico,Dona Ana,6CM Anthony
+32.031934,-96.399141,Texas,Navarro,Corsicana Airport
+32.090779,-81.130222,Georgia,Chatham,Savannah-L&A
+32.194671,-111.033167,Arizona,Pima,Ted Walker Park
+32.29515,-110.9823,Arizona,Pima,CHILDREN'S PARK NCore
+32.322037,-106.768337,New Mexico,Dona Ana,6Q Las Cruces
+32.322661,-111.038389,Arizona,Pima,ORANGE GROVE
+32.329111,-90.182722,Mississippi,Hinds,Jackson NCORE
+32.346722,-90.225667,Mississippi,Hinds,Hinds CC
+32.362606,-88.277992,Alabama,Sumter,"Ward, Sumter Co."
+32.412811,-86.263394,Alabama,Montgomery,"MOMS, ADEM"
+32.4274,-84.9457,Georgia,Muscogee,
+32.437028,-84.999653,Alabama,Russell,PHENIX CITY - SOUTH GIRARD SCHOOL
+32.472659,-93.777984,Louisiana,Caddo,Shreveport / Calumet
+32.509959,-92.046196,Louisiana,Ouachita,Monroe / Airport
+32.521272,-84.944635,Georgia,Muscogee,Columbus-Airport
+32.564968,-96.317687,Texas,Kaufman,Kaufman
+32.578165,-116.921374,California,San Diego,Donovan
+32.6056,-83.5978,Georgia,Houston,Warner Robins
+32.631242,-117.059088,California,San Diego,Chula Vista
+32.6509,-116.365,California,San Diego,Campo Indian Reservation
+32.664753,-97.337917,Texas,Tarrant,Fort Worth California Parkway North
+32.669001,-94.167468,Texas,Harrison,Karnack
+32.67618,-115.48307,California,Imperial,Calexico-Ethel Street
+32.690278,-114.61444,Arizona,Yuma,YUMA SUPERSITE
+32.710177,-117.142665,California,San Diego,San Diego - Sherman Elementary School
+32.726656,-103.122917,New Mexico,Lea,5ZS Hobbs Jefferson
+32.759154,-97.342332,Texas,Tarrant,Haws Athletic Center
+32.774262,-96.797686,Texas,Dallas,Convention Center
+32.777465,-83.640996,Georgia,Bibb,Macon-Alllied
+32.789565,-116.944308,California,San Diego,El Cajon - Lexington Elementary School
+32.79222,-115.56306,California,Imperial,El Centro-9th Street
+32.805264,-83.543493,Georgia,Bibb,Macon-Forestry
+32.80581,-97.356529,Texas,Tarrant,Fort Worth Northwest
+32.820061,-96.860117,Texas,Dallas,Dallas Hinton
+32.842318,-116.768293,California,San Diego,Alpine
+32.845709,-117.123964,California,San Diego,San Diego - Kearny Villa Rd.
+32.84755,-79.96516,South Carolina,Charleston,North Charleston Fire Station
+32.877583,-111.752222,Arizona,Pinal,CASA GRANDE DOWNTOWN
+32.884761,-112.03705,Arizona,Pinal,HIDDEN VALLEY
+32.941023,-79.657187,South Carolina,Charleston,CAPE ROMAIN
+32.967359,-82.806871,Georgia,Washington,Sandersville
+32.97833,-115.53917,California,Imperial,Brawley-220 Main Street
+32.985428,-117.082198,California,San Diego,San Diego -Rancho Carmel Drive
+33.095379,-87.481507,Alabama,Tuscaloosa,"Duncanville Middle School, Duncanville (Tuscaloosa) Alabama"
+33.139471,-91.939208,Arkansas,Ashley,CROSSETT
+33.217046,-117.396249,California,San Diego,Camp Pendleton
+33.219069,-97.196284,Texas,Denton,Denton Airport South
+33.220563,-92.672263,Arkansas,Union,EL DORADO
+33.284928,-85.803608,Alabama,Clay,ASHLAND
+33.331111,-87.003611,Alabama,Jefferson,McAdory
+33.362593,-117.09023,California,San Diego,Pala Airpad
+33.40314,-112.07526,Arizona,Maricopa,SOUTH PHOENIX
+33.41018,-111.86536,Arizona,Maricopa,MESA
+33.41046,-112.00264,Arizona,Maricopa,Eastwood
+33.41123,-111.93471,Arizona,Maricopa,TEMPE
+33.421194,-111.503222,Arizona,Pinal,APACHE JUNCTION FIRE STATION
+33.4265,-112.11821,Arizona,Maricopa,DURANGO COMPLEX
+33.4339,-82.0224,Georgia,Richmond,Augusta
+33.436111,-94.07778,Texas,Bowie,Texarkana New Boston
+33.447867,-117.088649,California,Riverside,Pechanga
+33.48378,-112.14256,Arizona,Maricopa,WEST PHOENIX
+33.488131,-111.855443,Arizona,Maricopa,Senior Center Air Monitoring Station
+33.499722,-86.924167,Alabama,Jefferson,Wylam
+33.503833,-112.095767,Arizona,Maricopa,JLG SUPERSITE
+33.521427,-86.844112,Alabama,Jefferson,Arkadelphia/Near Road
+33.545278,-86.549167,Alabama,Jefferson,Leeds
+33.553056,-86.815,Alabama,Jefferson,North Birmingham
+33.56031,-112.06619,Arizona,Maricopa,NORTH PHOENIX
+33.57453,-112.19193,Arizona,Maricopa,GLENDALE
+33.58553,-101.78698,Texas,Lubbock,Lubbock 12th Street
+33.610845,-84.390717,Georgia,Clayton,Forest Park
+33.6878,-84.2905,Georgia,DeKalb,South DeKalb
+33.71969,-116.1897,California,Riverside,29 Palms
+33.739963,-81.853635,South Carolina,Edgefield,TRENTON
+33.750838,-90.734175,Mississippi,Bolivar,Cleveland Delta State
+33.7784,-84.3914,Georgia,Fulton,NR-GA Tech
+33.793713,-118.171019,California,Los Angeles,Signal Hill (LBSH)
+33.8005,-78.9941,South Carolina,Horry,Coastal Carolina University
+33.802241,-84.435618,Georgia,Fulton,Fire Station #8
+33.83062,-117.93845,California,Orange,Anaheim
+33.85275,-116.54101,California,Riverside,Palm Springs
+33.859662,-118.200707,California,Los Angeles,Long Beach-Route 710 Near Road
+33.901389,-118.205,California,Los Angeles,Compton
+33.918137,-83.344385,Georgia,Clarke,Athens
+33.944713,-116.830074,California,Riverside,Morongo Air Monitoring Station
+33.9632,-84.0691,Georgia,Gwinnett,Gwinnett
+33.98821,-85.992556,Alabama,Etowah,GADSDEN C. COLLEGE
+33.99636,-117.4924,California,Riverside,Mira Loma (Van Buren)
+33.99958,-117.41601,California,Riverside,Rubidoux
+34.01029,-118.0685,California,Los Angeles,Pico Rivera #2
+34.015436,-84.607423,Georgia,Cobb,Kennesaw
+34.030833,-117.61722,California,San Bernardino,Ontario-Route 60 Near Road
+34.06659,-118.22688,California,Los Angeles,Los Angeles-North Main Street
+34.075687,-81.124988,South Carolina,Richland,Irmo DJJ
+34.093959,-80.962304,South Carolina,Richland,PARKLANE
+34.10002,-117.49201,California,San Bernardino,Fontana
+34.106678,-117.274063,California,San Bernardino,San Bernardino
+34.1326,-118.1272,California,Los Angeles,Pasadena
+34.19925,-118.53276,California,Los Angeles,Reseda
+34.210169,-118.870509,California,Ventura,Thousand Oaks
+34.214263,-79.767347,South Carolina,Florence,Williams Middle School
+34.2439,-113.5586,Arizona,La Paz,ALAMO LAKE
+34.244189,-97.462931,Oklahoma,Carter,HEALDTON
+34.25239,-119.143182,California,Ventura,El Rio-Rio Mesa School #2
+34.26464,-116.86147,California,San Bernardino,Big Bear
+34.276316,-118.683685,California,Ventura,Simi Valley-Cochran Street
+34.288567,-85.969858,Alabama,DeKalb,CROSSVILLE
+34.2993,-83.8134,Georgia,Hall,Gainesville
+34.364167,-77.838611,North Carolina,New Hanover,Castle Hayne
+34.404281,-118.80998,California,Ventura,Piru - Pacific
+34.427775,-119.691218,California,Santa Barbara,Santa Barbara
+34.44551,-119.8284,California,Santa Barbara,Goleta
+34.44806,-119.2313,California,Ventura,Ojai - East Ojai Ave
+34.469441,-93.000178,Arkansas,Garland,HOT SPRINGS
+34.510961,-117.32554,California,San Bernardino,Victorville-Park Avenue
+34.518515,-91.55896,Arkansas,Arkansas,STUTTGART
+34.530717,-86.967536,Alabama,Morgan,"DECATUR, Alabama"
+34.583699,-94.226234,Arkansas,Polk,MENA
+34.615367,-80.198787,South Carolina,Chesterfield,CHESTERFIELD
+34.63298,-98.42879,Oklahoma,Comanche,LAWTON
+34.63782,-120.4575,California,Santa Barbara,Lompoc H Street
+34.681343,-92.328697,Arkansas,Pulaski,DOYLE SPRINGS ROAD
+34.68547,-86.58816,Alabama,Madison,HUNTSVILLE OLD AIRPORT
+34.725389,-118.178601,California,Los Angeles,Lancaster - Fairgrounds
+34.751848,-82.256701,South Carolina,Greenville,Hillcrest Middle School
+34.756189,-92.281296,Arkansas,Pulaski,PARR
+34.82056,-89.98778,Mississippi,DeSoto,Hernando
+34.843895,-82.414585,South Carolina,Greenville,Greenville ESC
+34.885608,-95.78441,Oklahoma,Pittsburg,McALESTER
+34.890667,-120.432844,California,Santa Barbara,Santa Maria
+34.9127,-80.8745,South Carolina,York,
+34.955566,-81.924797,South Carolina,Spartanburg,T.K. Gregg
+34.9784,-85.2943,Georgia,Walker,
+35.01708,-106.65739,New Mexico,Bernalillo,SOUTH VALLEY
+35.02083,-120.56388,California,San Luis Obispo,Mesa2
+35.041416,-78.953112,North Carolina,Cumberland,William Owen School
+35.04673,-120.58777,California,San Luis Obispo,CDF
+35.04944,-118.18893,California,Kern,Mojave-Pat Avenue
+35.050918,-85.293019,Tennessee,Hamilton,Siskin
+35.063569,-106.647503,New Mexico,Bernalillo,San Jose
+35.116878,-87.419725,Tennessee,Lawrence,Loretto
+35.1343,-106.5852,New Mexico,Bernalillo,DEL NORTE HIGH SCHOOL
+35.1443,-106.60468,New Mexico,Bernalillo,JEFFERSON
+35.151194,-90.041559,Tennessee,Shelby,Alabama Ave. Station
+35.151699,-89.850249,Tennessee,Shelby,Memphis NCORE site
+35.16126,-89.87065,Tennessee,Shelby,Near Road Site at Southwest Tennessee Community College
+35.1852,-106.50815,New Mexico,Bernalillo,Foothills
+35.19324,-106.613815,New Mexico,Bernalillo,NORTH VALLEY
+35.197288,-90.193141,Arkansas,Crittenden,MARION
+35.201592,-101.909275,Texas,Potter,Amarillo A&M
+35.213171,-80.874084,North Carolina,Mecklenburg,Remount
+35.2401,-80.785683,North Carolina,Mecklenburg,Garinger High School
+35.259502,-120.64472,California,San Luis Obispo,SLO Roberto
+35.263165,-79.836636,North Carolina,Montgomery,Candor: EPA CASTNet Site
+35.281791,-80.851473,North Carolina,Mecklenburg,Friendship Park
+35.320105,-97.484099,Oklahoma,Cleveland,MOORE
+35.324636,-118.997627,California,Kern,Bakersfield-Airport (Planz)
+35.356615,-119.062613,California,Kern,Bakersfield-California
+35.385574,-119.015009,California,Kern,Bakersfield-Golden / M St
+35.40814,-94.524413,Oklahoma,Sequoyah,
+35.434767,-83.442133,North Carolina,Swain,Bryson City
+35.450115,-84.596195,Tennessee,McMinn,Athens
+35.47292,-97.52709,Oklahoma,Oklahoma,CENTRAL FIRE STATION
+35.49453,-120.66617,California,San Luis Obispo,Atascadero
+35.498711,-83.310242,North Carolina,Swain,Old High School
+35.50307,-97.577981,Oklahoma,Oklahoma,OKC Near Road
+35.551868,-80.395039,North Carolina,Rowan,Rockwell
+35.59095,-78.4622,North Carolina,Johnston,West Johnston Co.
+35.6062,-82.5844,North Carolina,Buncombe,Board Of Ed. Bldg.
+35.614131,-97.475083,Oklahoma,Oklahoma,OKC NORTH
+35.61975,-106.07968,New Mexico,Santa Fe,3SFA Santa Fe Airport
+35.637283,-91.188906,Arkansas,Jackson,NEWPORT
+35.641276,-77.360126,North Carolina,Pitt,Pitt Agri. Center
+35.642943,-117.715066,California,Kern,Ridgecrest-Ward
+35.65188,-87.0096,Tennessee,Maury,Columbia
+35.705319,-88.81964,Tennessee,Madison,Jackson
+35.721095,-84.343035,Tennessee,Loudon,Loudon School
+35.728889,-81.365556,North Carolina,Catawba,Hickory Water Tower
+35.750735,-94.669697,Oklahoma,Adair,STILWELL
+35.768847,-83.942152,Tennessee,Blount,Maryville
+35.785665,-115.357087,Nevada,Clark,Jean
+35.8145,-80.2627,North Carolina,Davidson,Lexington water tower
+35.856111,-78.574167,North Carolina,Wake,Millbrook School
+35.8652,-78.8197,North Carolina,Wake,Triple Oak
+35.880404,-109.438003,Arizona,Apache,Nazlini
+35.912487,-82.062082,North Carolina,Mitchell,Spruce Pine Hospital
+35.939078,-84.542802,Tennessee,Roane,Harriman
+35.953708,-96.004975,Oklahoma,Tulsa,Glenpool
+35.969848,-114.835007,Nevada,Clark,Garrett Jr. High
+35.978074,-83.950666,Tennessee,Knox,Rule High School (relo)
+35.980675,-83.925773,Tennessee,Knox,AIR LAB
+35.987908,-115.148885,Nevada,Clark,Liberty High School
+36.004733,-115.268517,Nevada,Clark,Mountains Edge Park
+36.019186,-83.87381,Tennessee,Knox,Spring Hill Elementary School
+36.026612,-80.341962,North Carolina,Forsyth,Clemmons Middle
+36.032955,-78.904037,North Carolina,Durham,Durham Armory
+36.048705,-115.052942,Nevada,Clark,Green Valley
+36.05266,-89.382157,Tennessee,Dyer,Dyersburg
+36.102244,-119.56565,California,Kings,Corcoran-Patterson
+36.106389,-115.253333,Nevada,Clark,Paul Meyer
+36.109006,-79.802314,North Carolina,Guilford,Mendenhall School
+36.11094,-80.224501,North Carolina,Forsyth,Hattie Avenue
+36.139707,-115.175654,Nevada,Clark,Rancho & Teddy
+36.141875,-115.078742,Nevada,Clark,Jerome Mack-NCore
+36.1424,-86.7341,Tennessee,Davidson,Near Road Site
+36.158414,-98.931973,Oklahoma,Dewey,SEILING
+36.163962,-115.11393,Nevada,Clark,Sunrise Acres
+36.16976,-115.263038,Nevada,Clark,Walter Johnson
+36.173415,-115.332728,Nevada,Clark,Palo Verde
+36.176382,-86.7389,Tennessee,Davidson,Lockeland
+36.1797,-94.116827,Arkansas,Washington,SPRINGDALE
+36.185702,-85.492107,Tennessee,Putnam,Cookeville
+36.204902,-95.976537,Oklahoma,Tulsa,TULSA CENTRAL
+36.209286,-121.126371,California,Monterey,King City 2
+36.214465,-115.091437,Nevada,Clark,Walnut Community Center
+36.270592,-115.238282,Nevada,Clark,Joe Neal
+36.29756,-86.653137,Tennessee,Sumner,Hendersonville
+36.30815,-119.3129,California,Tulare,Visalia-W. Ashland Avenue
+36.31567,-119.643447,California,Kings,Hanford-Irwin
+36.383359,-105.5839,New Mexico,Taos,3ZD Taos
+36.48187,-121.73333,California,Monterey,Carmel Valley
+36.487823,-117.871036,California,Inyo,Keeler
+36.48947,-118.82915,California,Tulare,Sequoia & Kings Canyon NPs - Ash Mountain
+36.511708,-77.655389,North Carolina,Northampton,Northampton County
+36.538761,-82.521599,Tennessee,Sullivan,Kingsport PM
+36.595556,-118.049167,California,Inyo,Lone Pine Paiute-Shoshone Reservation
+36.608,-82.1641,Virginia,Bristol City,Highland View Elementary School
+36.60843,-83.73694,Kentucky,Bell,MIDDLESBORO
+36.611411,-87.384666,Tennessee,Montgomery,Clarksville
+36.634225,-120.382331,California,Fresno,Tranquillity
+36.694261,-121.623271,California,Monterey,Salinas 3
+36.697186,-97.08135,Oklahoma,Kay,Ponca City
+36.710833,-119.7775,California,Fresno,Fresno-Foundry
+36.72639,-119.733,California,Fresno,Fresno-Pacific
+36.78538,-119.77321,California,Fresno,Fresno - Garland
+36.815897,-114.050347,Nevada,Clark,Virgin Valley High School
+36.819449,-119.716433,California,Fresno,Clovis-Villa
+36.841883,-76.181233,Virginia,Virginia Beach City,DEQ Tidewater Regional Office
+36.843425,-121.3621,California,San Benito,Hollister
+36.85555,-76.30135,Virginia,Norfolk City,NOAA
+36.91171,-87.323337,Kentucky,Christian,HOPKINSVILLE
+36.91841,-95.632286,Oklahoma,Nowata,Oklahoma Union (Nowata County)
+36.922222,-94.838889,Oklahoma,Ottawa,QUAPAW SHELTER
+36.953256,-120.034203,California,Madera,Madera-City
+36.98332,-121.98822,California,Santa Cruz,Santa Cruz
+36.985119,-119.658339,California,Fresno,Table Mountain Air Monitoring Site
+36.985702,-94.83931,Oklahoma,Ottawa,
+36.999571,-121.574684,California,Santa Clara,Gilroy
+37.04926,-86.21487,Kentucky,Warren,ED SPEAR PARK (SMITHS GROVE)
+37.06315,-122.083092,California,Santa Cruz,San Lorenzo Valley Middle School
+37.08727,-88.60801,Kentucky,McCracken,Paducah Transit
+37.09798,-84.61152,Kentucky,Pulaski,SOMERSET
+37.103733,-76.387017,Virginia,Hampton City,NASA Langley Research Center
+37.155494,-118.293547,California,Inyo,Stn.1 Big Pine Paiute site
+37.179125,-113.305096,Utah,Washington,Hurricane
+37.256137,-93.299894,Missouri,Greene,Hillcrest High School
+37.281853,-120.433671,California,Merced,Merced-Coffee
+37.28329,-83.20932,Kentucky,Perry,HAZARD
+37.28342,-79.88452,Virginia,Roanoke,East Vinton Elementary School
+37.297883,-80.081017,Virginia,Salem City,Salem High School
+37.30832,-120.480456,California,Merced,Merced-M St
+37.332706,-79.215011,Virginia,Lynchburg City,LYNCHBURG CITY WATER TOWER
+37.338135,-121.849783,California,Santa Clara,San Jose - Knox Avenue
+37.34438,-77.25925,Virginia,Charles,Shirley Plantation
+37.348497,-121.894898,California,Santa Clara,San Jose - Jackson
+37.35748,-77.59355,Virginia,Chesterfield,VDOT Chesterfield Residency Shop
+37.360684,-118.330783,California,Inyo,WMRC/NCORE
+37.362137,-118.417478,California,Inyo,Bishop Tribe EMO
+37.47689,-97.366399,Kansas,Sumner,PECK
+37.4826,-82.53532,Kentucky,Pike,PIKEVILLE PRIMARY
+37.488317,-120.836008,California,Stanislaus,Turlock
+37.55652,-77.40027,Virginia,Henrico,MathScience Innovation Center
+37.59088,-77.46925,Virginia,Richmond City,Bryan Park
+37.642165,-120.994212,California,Stanislaus,Modesto-14th Street
+37.64571,-118.96652,California,Mono,Mammoth Lakes
+37.67132,-77.5664,Virginia,Henrico,DEQ Piedmont Regional Office
+37.67696,-95.47594,Kansas,Neosho,CHANUTE
+37.687526,-121.784217,California,Alameda,Livermore
+37.68975,-121.77155,California,Alameda,Livermore Portola
+37.70097,-94.03474,Missouri,Cedar,El Dorado Springs
+37.701222,-121.903019,California,Alameda,Pleasanton - Owens Ct
+37.702066,-97.314847,Kansas,Sedgwick,WICHITA HD
+37.705612,-85.852629,Kentucky,Hardin,ELIZABETHTOWN
+37.743065,-122.169935,California,Alameda,Oakland
+37.74743,-113.055525,Utah,Iron,Enoch
+37.765946,-122.399044,California,San Francisco,San Francisco
+37.780776,-87.075307,Kentucky,Daviess,OWENSBORO PRIMARY
+37.793392,-121.247874,California,San Joaquin,Manteca
+37.793624,-122.263376,California,Alameda,Laney College
+37.814781,-122.282347,California,Alameda,Oakland West
+37.864767,-122.302741,California,Alameda,Berkeley- Aquatic Park
+37.936013,-122.026154,California,Contra Costa,Concord
+37.9604,-122.356811,California,Contra Costa,San Pablo
+37.961578,-121.281414,California,San Joaquin,Stockton - University Park
+37.962069,-119.120278,California,Mono,Lee Vining
+37.97231,-122.520004,California,Marin,San Rafael
+37.974436,-87.532289,Indiana,Vanderburgh,Evansville- U of E/  University of Evansville-Carson Center
+38.013333,-87.577222,Indiana,Vanderburgh,Evansville- Buena Vista
+38.06091,-85.89804,Kentucky,Jefferson,Watson Lane
+38.06503,-84.49761,Kentucky,Fayette,LEXINGTON PRIMARY
+38.07657,-78.50397,Virginia,Albemarle,Albemarle High School
+38.082155,-88.624943,Illinois,Hamilton,TEN MILE CREEK DNR OFFICE
+38.102507,-122.237976,California,Solano,Vallejo
+38.167523,-86.983214,Indiana,Spencer,Dale- David Turnham School
+38.176278,-89.788459,Illinois,Randolph,IEPA TRAILER
+38.182435,-85.574361,Kentucky,Jefferson,Carrithers Middle School
+38.1936,-85.7119,Kentucky,Jefferson,Durrett Lane (Near Road)
+38.20185,-120.680277,California,Calaveras,San Andreas-Gold Strike Road
+38.22876,-85.65452,Kentucky,Jefferson,CANNONS LANE
+38.23158,-85.82678,Kentucky,Jefferson,Algonquin Parkway
+38.23887,-82.9881,Kentucky,Carter,GRAYSON LAKE
+38.276099,-104.597613,Colorado,Pueblo,Pueblo - Fountain School
+38.288191,-85.741337,Indiana,Clark,Jeffersonville- Bates-Bowyer Ave.
+38.317813,-85.833322,Indiana,Floyd,
+38.346258,-81.621161,West Virginia,Kanawha,Dixie St.
+38.366183,-81.693717,West Virginia,Kanawha,
+38.391799,-86.929668,Indiana,Dubois,Jasper PO
+38.403765,-122.818294,California,Sonoma,Sebastopol
+38.410242,-82.432436,West Virginia,Cabell,
+38.44853,-90.3986,Missouri,Jefferson,Arnold West
+38.45934,-82.64041,Kentucky,Boyd,ASHLAND PRIMARY (FIVCO)
+38.47753,-78.81952,Virginia,Rockingham,ROCKINGHAM CO. VDOT
+38.494475,-121.211131,California,Sacramento,Sloughhouse
+38.508075,-82.659241,Ohio,Lawrence,ODOT Ironton
+38.542551,-90.263711,Missouri,St. Louis City,South Broadway
+38.566055,-109.53716,Utah,Grand,Moab
+38.56844,-121.49311,California,Sacramento,Sacramento-1309 T Street
+38.587525,-76.141006,Maryland,Dorchester,Horn Point
+38.59246,-82.80677,Ohio,Scioto,East Haverhill
+38.593322,-121.503795,California,Sacramento,Sacramento-Bercut Drive
+38.612034,-90.160477,Illinois,Saint Clair,IEPA-RAPS TRAILER
+38.613779,-121.368014,California,Sacramento,Sacramento-Del Paso Manor
+38.63114,-90.28115,Missouri,St. Louis City,Forest Park
+38.650329,-90.350313,Missouri,Saint Louis,Ladue
+38.65392,-75.610605,Delaware,Sussex,Seaford Shipley State Service Center
+38.656429,-90.198348,Missouri,St. Louis City,Blair Street
+38.656479,-90.189868,Missouri,St. Louis City,Branch Street
+38.66121,-121.73269,California,Yolo,Woodland-Gibson Road
+38.683304,-121.164457,California,Sacramento,Folsom-Natoma St.
+38.700632,-90.144763,Illinois,Madison,Gateway Regional Medical Center
+38.704534,-90.139675,Illinois,Madison,FIRESTATION #1
+38.74643,-121.26498,California,Placer,Roseville-N Sunrise Ave
+38.754599,-82.91701,Ohio,Scioto,Portsmouth WTP
+38.75961,-94.57983,Missouri,Cass,Richard Gebaur-South
+38.76835,-77.18347,Virginia,Fairfax,Springfield Near Road Site
+38.770081,-99.763424,Kansas,Trego,CEDAR BLUFF
+38.77335,-77.10468,Virginia,Fairfax,Lee District Park
+38.838575,-94.746424,Kansas,Johnson,HERITAGE PARK
+38.848014,-104.828564,Colorado,El Paso,COLORADO SPRINGS - COLLEGE COLLEGE
+38.8577,-77.05922,Virginia,Arlington,Aurora Hills Visitors Center
+38.860669,-90.105851,Illinois,Madison,WATER PLANT
+38.875161,-77.012816,District Of Columbia,District of Columbia,King Greenleaf Rec Center
+38.89477,-76.953426,District Of Columbia,District of Columbia,Near Road
+38.895572,-76.958072,District Of Columbia,District of Columbia,RIVER TERRACE
+38.897557,-119.732507,Nevada,Douglas,Ranchos Aspen Park
+38.901362,-90.146308,Illinois,Madison,ALTON HORACE MANN ELEMENTARY SCHOOL
+38.921847,-77.013178,District Of Columbia,District of Columbia,MCMILLAN  NCore-PAMS
+38.93568,-121.09959,California,Placer,Auburn-Atwood
+38.985477,-86.990419,Indiana,Greene,"Plummer, 2500 S. W- Citizens gas Plummer maintenance faciliy"
+38.986681,-75.556818,Delaware,Kent,PROPERTY OF KILLENS POND STATE PARK; BEHIND FARM BUILDINGS
+39.01893,-122.91333,California,Lake,Lakeport-S. Main Street
+39.021221,-122.281803,California,Colusa,Cortina Indian Rancheria
+39.021881,-84.47445,Kentucky,Campbell,NORTHERN KENTUCKY UNIVERSITY (NKU)
+39.024265,-95.711275,Kansas,Shawnee,KNI
+39.02473,-77.48925,Virginia,Loudoun,"Broad Run High School, Ashburn"
+39.055277,-76.878333,Maryland,Prince George's,HU-Beltsville
+39.063798,-108.561173,Colorado,Mesa,GRAND JUNCTION - POWELL BLDG
+39.101439,-90.344494,Illinois,Jersey,JERSEYVILLE WATER TREATMENT PLANT (WTP)
+39.104686,-94.57079,Missouri,Jackson,Troost
+39.10492,-84.55117,Ohio,Hamilton,Lower Price Hill
+39.114313,-77.106876,Maryland,Montgomery,Rockville
+39.117219,-94.635605,Kansas,Wyandotte,JFK
+39.12886,-84.50404,Ohio,Hamilton,Taft NCore PAMS
+39.138773,-121.618549,California,Sutter,Yuba City
+39.14313,-76.84611,Maryland,Howard,Howard County Near Road
+39.1447,-119.7661,Nevada,Carson City,Carson City Armory
+39.146025,-84.538375,Ohio,Hamilton,Cincinnati Near Road
+39.15047,-123.20655,California,Mendocino,Ukiah-Library
+39.15564,-75.51821,Delaware,Kent,PLATFORM IN FIELD BEHIND DELAWARE FED. CREDIT UNION BLDG
+39.159383,-86.504762,Indiana,Monroe,Bloomington- Binford Elementary School
+39.18919,-121.99887,California,Colusa,Colusa-Sunrise Blvd
+39.19433,-84.478974,Ohio,Hamilton,Carthage
+39.233477,-121.055608,California,Nevada,Grass Valley-Litton Building
+39.237457,-85.891332,Indiana,Bartholomew,Columbus- Rocky Ford Rd.
+39.278117,-80.34225,West Virginia,Harrison,WASHINGTON IRVING JUNIOR HIGH SCHOOL
+39.2787,-84.36625,Ohio,Hamilton,Sycamore
+39.28102,-78.08157,Virginia,Frederick,Rest
+39.303174,-94.377014,Missouri,Clay,Liberty
+39.305021,-75.797317,Maryland,Kent,Millington
+39.310833,-76.474444,Maryland,Baltimore,Essex
+39.323533,-81.552367,West Virginia,Wood,Neale Elementary School
+39.33746,-76.58905,Maryland,Baltimore (City),Lake Montebello
+39.36326,-74.431,New Jersey,Atlantic,Atlantic City
+39.39861,-123.35872,California,Mendocino,Willits-Blosser Lane
+39.399837,-119.739606,Nevada,Washoe,Toll
+39.410191,-76.296946,Maryland,Harford,Edgewood
+39.422273,-75.025204,New Jersey,Cumberland,Millville
+39.43806,-108.02611,Colorado,Garfield,Battlement Mesa
+39.442165,-81.908827,Ohio,Athens,Gifford
+39.448105,-77.963845,West Virginia,Berkeley,MARTINSBURG BALL FIELD
+39.460478,-76.633543,Maryland,Baltimore,Padonia
+39.464872,-74.448736,New Jersey,Atlantic,Brigantine
+39.472436,-84.394952,Ohio,Butler,Yankee
+39.478686,-84.397112,Ohio,Butler,BPG
+39.479822,-84.409617,Ohio,Butler,Amanda Elem
+39.481483,-80.134667,West Virginia,Marion,MARION HEALTH CARE HOSPITAL
+39.485987,-87.401312,Indiana,Vigo,TERRE HAUTE CAAP/ McLean High School
+39.49072,-84.36374,Ohio,Butler,Ohio Bell
+39.521933,-119.7954,Nevada,Washoe,Reno4
+39.534488,-105.070358,Colorado,Douglas,Chatfield State Park
+39.540917,-119.746761,Nevada,Washoe,Sparks
+39.551279,-75.732015,Delaware,New Castle,Lums Pond
+39.564178,-77.720244,Maryland,Washington,Hagerstown
+39.577647,-75.603659,Delaware,New Castle,Route 9 Delaware City
+39.59575,-110.770111,Utah,Carbon,Price #2
+39.604399,-105.019526,Colorado,Arapahoe,Arapahoe Community College
+39.621434,-119.71877,Nevada,Washoe,Spanish Springs
+39.649444,-79.920278,West Virginia,Monongalia,
+39.702982,-75.864771,Maryland,Cecil,Fair Hill Natural Resource Management Area
+39.70595,-79.012,Maryland,Garrett,Piney Run
+39.73217,-105.0153,Colorado,Denver,I-25
+39.738578,-104.939925,Colorado,Denver,DENVER - NJH-E
+39.739441,-75.557534,Delaware,New Castle,MLK  CORNER OF MLK BLVD AND JUSTISON ST
+39.741694,-94.858584,Missouri,Buchanan,St. Joseph Pump Station
+39.744993,-86.166464,Indiana,Marion,Indpls- West St.
+39.751184,-104.987625,Colorado,Denver,DENVER - CAMP
+39.755969,-84.198674,Ohio,Montgomery,Sinclair
+39.758855,-86.115415,Indiana,Marion,Indpls-  School 21/ Florence Fay School 21
+39.761273,-75.492047,Delaware,New Castle,Bellefonte River Road Park
+39.76168,-121.84047,California,Butte,Chico-East Avenue
+39.77949,-105.00518,Colorado,Denver,La Casa
+39.7861,-104.9886,Colorado,Denver,Globeville
+39.787933,-86.13088,Indiana,Marion,Indpls.- I 70
+39.788903,-86.214628,Indiana,Marion,Indpls- W. 18th St./ Ernie Pyle School 90
+39.800339,-75.212119,New Jersey,Gloucester,Clarksboro
+39.80933,-80.26567,Pennsylvania,Greene,Holbrook
+39.810833,-86.114444,Indiana,Marion,Indpls- Washington Park/  in parking lot next to police station
+39.81336,-120.47069,California,Plumas,Portola
+39.818715,-75.413973,Pennsylvania,Delaware,Marcus Hook
+39.8281,-104.93647,Colorado,Adams,Birch Street
+39.831921,-89.644164,Illinois,Sangamon,AGRICULTURE BUILDING
+39.834461,-75.768242,Pennsylvania,Chester,New Garden
+39.835556,-75.3725,Pennsylvania,Delaware,Chester
+39.83562,-84.720524,Ohio,Preble,Preble NCore
+39.866834,-88.925594,Illinois,Macon,IEPA TRAILER
+39.91251,-83.01159,Ohio,Franklin,Jackson Pike WWTP
+39.915961,-80.733858,West Virginia,Marshall,
+39.917663,-79.805499,Pennsylvania,Fayette,Uniontown
+39.92002,-77.30968,Pennsylvania,Adams,Arendtsville
+39.922867,-75.186921,Pennsylvania,Philadelphia,Ritner (RIT)
+39.928804,-86.078775,Indiana,Hamilton,Carmel- Hazel Dell Pkwy.
+39.92882,-83.80949,Ohio,Clark,Springfield Fire St1
+39.934559,-75.125219,New Jersey,Camden,Camden Spruce Street
+39.939567,-120.944376,California,Plumas,Quincy-N Church Street
+39.960048,-75.142614,Pennsylvania,Philadelphia,Fire Administration Building (FAB)
+39.960884,-85.939546,Indiana,Hamilton,11775 Brooks School Rd.
+39.965278,-76.699444,Pennsylvania,York,A421330008LAT/LON POINT AT CORNER OF TRAILER
+39.9679,-80.7464,Ohio,Belmont,Shadyside
+39.988842,-75.207205,Pennsylvania,Philadelphia,Car-Barn Montgomery I -76
+39.989036,-75.050008,New Jersey,Camden,Pennsauken
+39.991389,-75.080833,Pennsylvania,Philadelphia,North East Waste (NEW)
+39.994908,-74.170447,New Jersey,Ocean,Toms River
+40.002707,-82.994424,Ohio,Franklin,Fairgrounds
+40.008889,-75.09778,Pennsylvania,Philadelphia,Air Management Services Laboratory (AMS LAB)
+40.009544,-85.52347,Indiana,Henry,Mechanicsburg- Shenandoah HS/ behind the football field
+40.021097,-105.263382,Colorado,Boulder,BOULDER CHAMBER OF COMMERCE
+40.043833,-76.1124,Pennsylvania,Lancaster,Lancaster Downwind
+40.046667,-76.283333,Pennsylvania,Lancaster,Lancaster
+40.05278,-88.37251,Illinois,Champaign,ISWS CLIMATE STATION
+40.054171,-74.985166,Pennsylvania,Philadelphia,Torresdale Station
+40.086944,-108.761389,Colorado,Rio Blanco,"Rangely, Golf Course"
+40.0877,-82.959773,Ohio,Franklin,Maple Canyon
+40.11107,-83.065415,Ohio,Franklin,Smoky Row Near Road
+40.112222,-75.309167,Pennsylvania,Montgomery,A420910013LAT/LON POINT IS OF CORNER OF TRAILER
+40.114876,-80.700972,West Virginia,Ohio,
+40.123886,-88.240553,Illinois,Champaign,709 N. Champaign St.
+40.125703,-85.652184,Indiana,Madison,Anderson- Eastside Elem. School
+40.136378,-111.657936,Utah,Utah,Spanish Fork
+40.146667,-79.902222,Pennsylvania,Washington,
+40.164576,-105.100856,Colorado,Boulder,LONGMONT - MUNICIPAL BLDG
+40.17093,-122.25556,California,Tehama,Red Bluff-Walnut St. District Office
+40.203338,-85.387819,Indiana,Delaware,Muncie- Central HS
+40.209387,-104.82405,Colorado,Weld,Platteville - Middle School
+40.222411,-74.763167,New Jersey,Mercer,Trenton
+40.246528,-77.18675,Pennsylvania,Cumberland,Carlisle
+40.246992,-76.846988,Pennsylvania,Dauphin,Harrisburg
+40.268963,-80.243995,Pennsylvania,Washington,Marcellus
+40.272222,-76.681389,Pennsylvania,Dauphin,Hershey
+40.283092,-74.742613,New Jersey,Mercer,Rider University
+40.285,-96.824166,Nebraska,Gage,
+40.294178,-110.009732,Utah,Duchesne,Roosevelt
+40.294341,-79.885331,Pennsylvania,Allegheny,Clairton
+40.304694,-79.505667,Pennsylvania,Westmoreland,LAT/LON POINT IS TRAILER
+40.309722,-78.915,Pennsylvania,Cambria,Johnstown
+40.323768,-79.868062,Pennsylvania,Allegheny,Liberty
+40.338516,-76.394788,Pennsylvania,Lebanon,Lebanon
+40.341023,-80.596635,West Virginia,Brooke,
+40.341389,-111.713611,Utah,Utah,Lindon
+40.3663,-80.6158,Ohio,Jefferson,Steubenville
+40.375644,-80.169943,Pennsylvania,Allegheny,South Fayette
+40.38335,-75.9686,Pennsylvania,Berks,Reading Airport
+40.394651,-80.611813,West Virginia,Brooke,
+40.400959,-91.391012,Iowa,Lee,"KEOKUK, FIRE STATION"
+40.402328,-79.860973,Pennsylvania,Allegheny,North Braddock
+40.414877,-104.70693,Colorado,Weld,Greeley - Hospital
+40.427372,-80.592318,West Virginia,Hancock,
+40.431667,-86.8525,Indiana,Tippecanoe,Lafayette- Greenbush St./ Cinergy Substation
+40.43743,-79.863572,Pennsylvania,Allegheny,Parkway East Near-Road
+40.445278,-80.420833,Pennsylvania,Washington,
+40.462182,-74.429439,New Jersey,Middlesex,Rutgers University
+40.46471,-109.561472,Utah,Uintah,Vernal #4
+40.46542,-79.960757,Pennsylvania,Allegheny,Lawrenceville
+40.481347,-86.109688,Indiana,Howard,Kokomo- E. Vaile Rd.
+40.496392,-112.036298,Utah,Salt Lake,Herriman #3
+40.50084,-80.066488,Pennsylvania,Allegheny,Avalon
+40.515262,-74.806671,New Jersey,Hunterdon,Flemington
+40.518735,-88.996896,Illinois,McLean,ISU HARRIS PHYSICAL PLANT
+40.535278,-78.370833,Pennsylvania,Blair,Altoona
+40.55013,-122.38092,California,Shasta,Redding - Health Department
+40.5506,-106.385,Colorado,Jackson,"Hebron, Colorado"
+40.56333,-78.919972,Pennsylvania,Indiana,Strongstown
+40.571288,-105.079693,Colorado,Larimer,FORT COLLINS - CSU - Edison
+40.598056,-111.894167,Utah,Salt Lake,Copper View
+40.60055,-112.35578,Utah,Tooele,Erda
+40.603943,-74.276174,New Jersey,Union,Rahway
+40.611944,-75.4325,Pennsylvania,Lehigh,Allentown
+40.617488,-79.727664,Pennsylvania,Allegheny,Harrison
+40.628056,-75.341111,Pennsylvania,Northampton,LAT/LON POINT IS CENTER OF TRAILER
+40.63307,-74.13719,New York,Richmond,RICHMOND POST OFFICE
+40.64144,-74.208365,New Jersey,Union,Elizabeth Lab
+40.64182,-74.01871,New York,Kings,PS 314
+40.662961,-111.901851,Utah,Salt Lake,Near Road
+40.691857,-80.299211,Pennsylvania,Beaver,Fort Mcintosh
+40.69454,-73.92769,New York,Kings,PS 274
+40.695078,-92.006318,Iowa,Van Buren,LAKE SUGEMA STATE PARK II
+40.697007,-89.584737,Illinois,Peoria,CITY OFFICE BUILDING
+40.709762,-112.00876,Utah,Salt Lake,Lake Park
+40.71961,-73.94771,New York,Kings,JHS 126
+40.725413,-74.052293,New Jersey,Hudson,Jersey City Firehouse
+40.73,-73.984,New York,New York,PS 19
+40.73614,-73.82153,New York,Queens,QUEENS COLLEGE 2
+40.736389,-111.872222,Utah,Salt Lake,Hawthorne
+40.739264,-73.817694,New York,Queens,Queens College Near Road
+40.74529,-73.41919,New York,Suffolk,BABYLON
+40.747796,-80.316442,Pennsylvania,Beaver,Beaver Falls
+40.770908,-74.036218,New Jersey,Hudson,Union City High School
+40.770944,-84.0539,Ohio,Allen,Lima
+40.77678,-124.17949,California,Humboldt,Jacobs
+40.777145,-111.945849,Utah,Salt Lake,Utah Technical Center
+40.78422,-111.931,Utah,Salt Lake,ROSE PARK
+40.786804,-81.394153,Ohio,Stark,Canton Fire St8
+40.787628,-74.676301,New Jersey,Morris,Chester
+40.7997,-73.93432,New York,New York,IS 45
+40.800717,-81.373,Ohio,Stark,Canton
+40.807897,-112.087717,Utah,Salt Lake,Inland Port
+40.811389,-77.877028,Pennsylvania,Centre,State College
+40.812591,-96.683314,Nebraska,Lancaster,ON ROOF OF HEALTH DEPARTMENT
+40.814183,-79.56475,Pennsylvania,Armstrong,Kittanning
+40.81551,-73.88553,New York,Bronx,IS 74
+40.816,-73.902,New York,Bronx,IS 52
+40.85355,-73.96618,New Jersey,Bergen,Fort Lee Near Road
+40.8679,-73.87809,New York,Bronx,PFIZER LAB SITE
+40.902967,-111.884467,Utah,Davis,Bountiful Viewmont
+40.915555,-98.378888,Nebraska,Hall,Grand Island NDOT
+40.918381,-74.168092,New Jersey,Passaic,Paterson
+40.92458,-75.067815,New Jersey,Warren,Columbia
+40.969112,-95.044951,Iowa,Montgomery,VIKING LAKE STATE PARK
+41.047117,-123.675233,California,Humboldt,Hoopa Valley Reservation
+41.0604,-81.9239,Ohio,Medina,Chippewa
+41.063526,-81.468956,Ohio,Summit,East HS
+41.08536,-104.52277,Wyoming,Laramie,Laramie County Mobile
+41.087862,-81.541532,Ohio,Summit,Five Points
+41.106182,-80.640576,Ohio,Mahoning,Youngstown State
+41.133294,-95.956103,Nebraska,Sarpy,ON GOLDEN HILLS ELEMENTARY ROOF
+41.169646,-85.629292,Indiana,Whitley,Larwill- Whitko Career Academy
+41.170833,-73.194722,Connecticut,Fairfield,Roosevelt School-Bridgeport
+41.182227,-104.778334,Wyoming,Laramie,Cheyenne NCore
+41.197847,-96.056686,Nebraska,Douglas,ON TOP OF ELEMENTARY SCHOOL
+41.215014,-80.484779,Pennsylvania,Mercer,Farrell
+41.221537,-88.190967,Illinois,Will,COM ED TRAINING CENTER
+41.23172,-80.80116,Ohio,Trumbull,Laird Eng Bldg
+41.247486,-95.973142,Nebraska,Douglas,4102 Woolworth Ave. on Healthcenter Warehouse
+41.264171,-95.896124,Iowa,Pottawattamie,"COUNCIL BLUFFS, FRANKLIN SCH."
+41.266263,-77.231189,Pennsylvania,Lycoming,Salladasburg
+41.3014,-72.902871,Connecticut,New Haven,Criscuolo Park-New Haven
+41.303614,-111.987871,Utah,Weber,Harrisville
+41.308825,-105.54913,Wyoming,Albany,Laramie SLAMS
+41.35362,-72.07882,Connecticut,New London,Fort Griswold Park
+41.399167,-73.443056,Connecticut,Fairfield,Western Conn State Univ
+41.400968,-91.067957,Iowa,Muscatine,MUSCATINE HS - East Campus School Roof
+41.4069,-91.0616,Iowa,Muscatine,"MUSCATINE, MUSSER PARK"
+41.419429,-91.070975,Iowa,Muscatine,"MUSCATINE, GREENWOOD CEMETARY"
+41.44013,-81.494833,Ohio,Cuyahoga,Cleveland Near Road
+41.442778,-75.623056,Pennsylvania,Lackawanna,Scranton
+41.446624,-81.662356,Ohio,Cuyahoga,Harvard Yards
+41.471782,-81.656792,Ohio,Cuyahoga,Cleveland Fire St13
+41.477011,-81.682383,Ohio,Cuyahoga,St Theodosius
+41.485007,-112.021476,Utah,Box Elder,Brigham City #3
+41.492117,-81.678449,Ohio,Cuyahoga,GT Craig NCore PAMS
+41.49511,-71.423705,Rhode Island,Washington,US-EPA Laboratory
+41.49916,-74.00885,New York,Orange,NEWBURGH
+41.512077,-90.624044,Iowa,Scott,Hayes School
+41.514727,-90.51735,Illinois,Rock Island,ROCK ISLAND ARSENAL
+41.526885,-88.116474,Illinois,Will,PERSHING SCHOOL
+41.530011,-90.587611,Iowa,Scott,"DAVENPORT, JEFFERSON SCH."
+41.550556,-73.043611,Connecticut,New Haven,Meadow and Bank Streets
+41.551211,-96.146175,Nebraska,Washington,ON ROOF OF GOOD SHEPARD LUTHERAN HOME
+41.55523,-81.575256,Ohio,Cuyahoga,District 6
+41.573282,-87.406579,Indiana,Lake,Gary- Burr St./ pumping station near truck stop
+41.57862,-87.557406,Illinois,Cook,Kingery Near Road #1
+41.592536,-109.220852,Wyoming,Sweetwater,Rock Springs SLAM site
+41.594427,-87.495044,Indiana,Lake,Hammond- 167th St
+41.598473,-87.342947,Indiana,Lake,Gary- Madison St./ Gary Water/ IN American Water Co.
+41.603159,-93.643118,Iowa,Polk,CARPENTER
+41.605244,-75.95774,Pennsylvania,Wyoming,
+41.606662,-87.304943,Indiana,Lake,Gary-IITRI/ 1219.5 meters east of Tennessee St.- old ammuntion bunker
+41.615237,-71.72,Rhode Island,Kent,AJ
+41.6175,-87.199167,Indiana,Porter,Ogden Dunes- Water Treatment Plant
+41.62057,-83.64226,Ohio,Lucas,RAPS
+41.635952,-87.442017,Indiana,Lake,East Chicago- Franklin School/ Washington School (Ben. Franklin)
+41.644067,-83.54616,Ohio,Lucas,Erie
+41.644722,-76.939167,Pennsylvania,Tioga,PENN STATE OZONE MONITORING SITE
+41.653501,-87.435561,Indiana,Lake,East Chicago-Marina
+41.657155,-85.968446,Indiana,Elkhart,Elkhart- Prairie St.
+41.657232,-91.503478,Iowa,Johnson,"IOWA CITY, HOOVER SCH."
+41.667032,-93.599221,Iowa,Polk,"PUBLIC WORKS, DES MOINES IA, FRM, SEQ. SAMPLER, SPM, ROOF"
+41.670992,-87.732457,Illinois,Cook,VILLAGE GARAGE
+41.679867,-83.4785,Ohio,Lucas,Eastside Pump St
+41.685707,-71.169235,Massachusetts,Bristol,FALL RIVER
+41.687165,-87.539315,Illinois,Cook,WASHINGTON HS
+41.69666,-86.214722,Indiana,St. Joseph,South Bend-Shields Dr.
+41.705226,-76.512726,Pennsylvania,Bradford,Towanda
+41.707212,-86.891216,Indiana,LaPorte,MARSH ELEMENTARY ON THE ROOF
+41.726811,-81.242156,Ohio,Lake,Painesville
+41.726892,-122.633579,California,Siskiyou,Yreka
+41.7514,-87.713488,Illinois,Cook,COM ED MAINTENANCE BLDG
+41.771071,-88.152534,Illinois,DuPage,CITY HALL
+41.771444,-72.679923,Connecticut,Hartford,Huntley Place-Hartford
+41.771987,-71.427881,Rhode Island,Providence,Near road (moved from Providence; Par/Hayes)
+41.782766,-87.805377,Illinois,Cook,GRAVES ES
+41.783083,-110.53788,Wyoming,Lincoln,Kemmerer Mobile
+41.784717,-88.329374,Illinois,Kane,KANE COUNTY HEALTH DEPT
+41.784722,-72.631667,Connecticut,Hartford,McAuliffe Park
+41.80118,-87.832349,Illinois,Cook,VILLAGE HALL
+41.807469,-71.412968,Rhode Island,Providence,CCRI Liston Campus ROOFTOP
+41.821342,-73.297257,Connecticut,Litchfield,Mohawk Mt-Cornwall
+41.823283,-90.211982,Iowa,Clinton,"CLINTON, CHANCY PARK"
+41.841039,-71.36097,Rhode Island,Providence, FRANCIS SCHOOL East Providence
+41.842649,-111.852199,Utah,Cache,Smithfield
+41.864426,-87.748902,Illinois,Cook,LIBERTY SCHOOL
+41.867331,-75.686219,Pennsylvania,Susquehanna,
+41.874668,-71.379971,Rhode Island,Providence,"Vernon St, Pawtucket"
+41.874999,-90.177574,Iowa,Clinton,"CLINTON, RAINBOW PARK"
+41.876853,-103.656561,Nebraska,Scotts Bluff,Scottsbluff Senior High School
+41.912739,-87.722673,Illinois,Cook,SPRINGFIELD PUMP STATION
+41.965193,-87.876265,Illinois,Cook,IEPA TRAILER
+41.965485,-87.749928,Illinois,Cook,MAYFAIR PUMP STATION
+41.97677,-91.68766,Iowa,Linn,Public Health
+41.995568,-83.946559,Michigan,Lenawee,"6792 RAISIN CENTER HWY, LENAWEE CO.RD.COMM.OWNER, TECUMSEH"
+42.050403,-88.280015,Illinois,Kane,MCKINLEY SCHOOL
+42.060285,-87.863225,Illinois,Cook,REGIONAL OFFICE BUILDING
+42.065106,-71.012129,Massachusetts,Plymouth,Brockton Buckley
+42.082222,-111.864167,Idaho,Franklin,Preston
+42.09142,-77.20978,New York,Steuben,PINNACLE STATE PARK
+42.120229,-72.584503,Massachusetts,Hampden,
+42.139996,-87.799227,Illinois,Cook,NORTHBROOK WATER PLANT
+42.14175,-80.038611,Pennsylvania,Erie,Erie
+42.189215,-120.353969,Oregon,Lake,Lakeview - Center and M Streets (LCM)
+42.190296,-121.731369,Oregon,Klamath,Klamath Falls - Peterson Elementary School (KFP)
+42.19438,-72.555112,Massachusetts,Hampden,WESTOVER AFB
+42.221442,-88.242207,Illinois,McHenry,CARY GROVE HS
+42.228611,-83.208333,Michigan,Wayne,Allen Park
+42.240556,-83.599722,Michigan,Washtenaw,"YPSILANTI TOWNER ST, SOUTH;"
+42.241229,-70.963346,Massachusetts,Norfolk,
+42.261669,-83.157893,Michigan,Wayne,NMH48217 NEW MT HERMAN CHURCH
+42.263955,-71.794322,Massachusetts,Worcester,WORCESTER SUMMER STREET
+42.267,-89.08917,Illinois,Winnebago,Rockford Fire Department Admin. Bldg
+42.278067,-85.54189,Michigan,Kalamazoo,Kalamazoo Fairgrounds
+42.295824,-83.129431,Michigan,Wayne,TRINITY ST MARKS - Gordy Howe International Bridge (GHIB)
+42.298493,-72.334079,Massachusetts,Hampshire,QUABBIN RES
+42.302778,-83.106667,Michigan,Wayne,DETROIT-SOUTHWEST (DET-SW)
+42.306666,-83.148889,Michigan,Wayne,PROPERTY OWNED BY DEARBORN PUBLIC SCHOOLS
+42.312078,-83.103469,Michigan,Wayne,Military Park (GHIB)
+42.312158,-83.091943,Michigan,Wayne,DP4th - Detroit Police 4th Precinct (near GHIB)
+42.325186,-71.056061,Massachusetts,Suffolk,VON HILLERN ST
+42.3295,-71.0826,Massachusetts,Suffolk,DUDLEY SQUARE ROXBURY
+42.33155,-122.880266,Oregon,Jackson,Medford - Welch and Jackson Streets (MWJ)
+42.3324,-122.8891,Oregon,Jackson,Medford - Jackson Park (MJP)
+42.348873,-71.097163,Massachusetts,Suffolk,BOSTON KENMORE SQ
+42.349954,-71.059194,Massachusetts,Suffolk,Chinatown
+42.385998,-83.266189,Michigan,Wayne,Eliza Howell-NR
+42.387222,-71.026111,Massachusetts,Suffolk,
+42.388405,-82.979793,Michigan,Wayne,Stellantis-FCA Mack Avenue Assembly Plant Fiat Chrylser Automobiles
+42.43084,-83.000138,Michigan,Wayne,East 7 Mile
+42.434139,-123.348466,Oregon,Josephine,Grants Pass - Parkside Elementary School (GPP)
+42.452299,-73.239648,Massachusetts,Berkshire,
+42.463063,-83.183199,Michigan,Oakland,Oak Park
+42.474642,-70.970816,Massachusetts,Essex,LYNN WATER TREATMENT PLANT
+42.49963,-79.31881,New York,Chautauqua,DUNKIRK
+42.499844,-96.394755,Iowa,Woodbury,Irving Elementry School
+42.501543,-92.316017,Iowa,Black Hawk,Water Tower
+42.50472,-87.8093,Wisconsin,Kenosha,CHIWAUKEE PRAIRIE STATELINE
+42.529999,-108.720003,Wyoming,Fremont,South Pass
+42.605816,-72.596689,Massachusetts,Franklin,Greenfield 16 Barr Ave
+42.612085,-71.306986,Massachusetts,Middlesex,ChelmsfordNR
+42.64225,-73.75464,New York,Albany,ALBANY COUNTY HEALTH DEPT
+42.68075,-73.75733,New York,Albany,LOUDONVILLE
+42.69302,-90.69813,Wisconsin,Grant,POTOSI
+42.702223,-73.110414,Massachusetts,Berkshire,North Adams
+42.731394,-82.793463,Michigan,Macomb,New Haven
+42.76138,-84.562867,Michigan,Ingham,Lansing - Filley
+42.767786,-86.148577,Michigan,Allegan,966 32nd St (Holland)
+42.770837,-71.10229,Massachusetts,Essex,CONSENTINO SCHOOL.
+42.78943,-96.90383,South Dakota,Clay,Vermillion DOT
+42.82231,-106.36501,Wyoming,Natrona,Casper Gaseous
+42.842168,-108.736281,Wyoming,Fremont,Lander SLAM site
+42.86183,-71.878626,New Hampshire,Hillsborough,MILLER STATE PARK
+42.862531,-71.38014,New Hampshire,Rockingham,MOOSEHILL SCHOOL
+42.869824,-109.87076,Wyoming,Sublette,Pinedale Gaseous
+42.876907,-78.809526,New York,Erie,BUFFALO
+42.88759,-73.24984,Vermont,Bennington,Morse Airport - State of Vermont Property
+42.894444,-85.852778,Michigan,Ottawa,Jenison
+42.921107,-78.765825,New York,Erie,Buffalo Near-Road
+42.930521,-72.272332,New Hampshire,Cheshire,WATER STREET
+42.93257,-87.93434,Wisconsin,Milwaukee,MILWAUKEE - COLLEGE AVE. NR
+42.953336,-82.456229,Michigan,St. Clair,Port Huron
+42.984173,-85.671339,Michigan,Kent,GR-MONROE
+42.99328,-78.77153,New York,Erie,AMHERST
+43.01724,-87.93369,Wisconsin,Milwaukee,MILWAUKEE - SIXTEENTH ST. HEALTH CENTER
+43.020075,-88.21507,Wisconsin,Waukesha,WAUKESHA - CLEVELAND AVE
+43.02421,-108.3637,Wyoming,Fremont,Riverton Mobile
+43.047224,-83.670159,Michigan,Genesee,WHALEY PK 3610 IOWA (FLINT)
+43.05235,-76.05921,New York,Onondaga,EAST SYRACUSE
+43.0733,-89.4358,Wisconsin,Dane,MADISON - UNIVERSITY AVE WELL #6
+43.075371,-70.748017,New Hampshire,Rockingham,PORTSMOUTH - PEIRCE ISLAND
+43.081667,-107.549444,Wyoming,Fremont,Spring Creek
+43.10101,-89.35768,Wisconsin,Dane,MADISON EAST
+43.123704,-94.693518,Iowa,Palo Alto,"EMMETSBURG, IOWA LAKES COMMUNITY COLL."
+43.145013,-77.55728,New York,Monroe,Rochester Near-Road
+43.14618,-77.54817,New York,Monroe,ROCHESTER 2
+43.4351,-89.67979,Wisconsin,Sauk,DEVILS LAKE PARK
+43.45776,-110.79799,Wyoming,Teton,Jackson SLAM site
+43.46611,-88.62111,Wisconsin,Dodge,HORICON WILDLIFE AREA
+43.4983,-87.8102,Wisconsin,Ozaukee,HARRINGTON BEACH PARK
+43.55764,-103.48386,South Dakota,Custer,Wind Cave
+43.566122,-71.496335,New Hampshire,Belknap,FIELD OFFICE ON THE GROUNDS OF THE FORMER STATE PRISON
+43.571391,-83.890721,Michigan,Bay,"JENISON ST ABOUT 70 FT WEST, 2 LANE RESIDENTIAL"
+43.58925,-119.04872,Oregon,Harney,Burns - Washington Street (BWS)
+43.59901,-96.78331,South Dakota,Minnehaha,SF-USD
+43.59946,-116.52924,Idaho,Canyon,Nampa - Ridgecrest
+43.600699,-116.347853,Idaho,Ada,Meridian - St. Luke's
+43.608056,-72.982778,Vermont,Rutland,State of Vermont District Court Parking Lot
+43.629605,-72.309499,New Hampshire,Grafton,LEBANON AIRPORT ROAD
+43.660246,-70.268965,Maine,Cumberland,PDO - Portland Deering Oaks
+43.677994,-70.256178,Maine,Cumberland,TB - Tukey's Bridge
+43.744352,-122.480487,Oregon,Lane,Oakridge - Willamette Activity Center (WAC)
+43.74561,-101.941218,South Dakota,Jackson,SOUTH OF BADLANDS NP HEADQUARTERS
+43.7775,-91.2269,Wisconsin,La Crosse,LACROSSE - DOT BUILDING
+43.799501,-123.053487,Oregon,Lane,Cottage Grove - City Shops (CGC)
+43.996908,-92.450366,Minnesota,Olmsted,Ben Franklin School
+44.020855,-90.40164,Wisconsin,Monroe,
+44.026312,-123.083737,Oregon,Lane,Eugene - Amazon Park (AMZ)
+44.067224,-123.141352,Oregon,Lane,Eugene - Highway 99 (E99)
+44.087397,-103.273777,South Dakota,Pennington,CREDIT UNION
+44.089406,-70.214219,Maine,Androscoggin,COUNTRY KITCHEN BAKERY PARKING LOT
+44.1158,-123.1211,Oregon,Lane,Eugene - Wilkes Drive (EWD)
+44.288005,-105.517022,Wyoming,Campbell,Gillette SLAMS site
+44.299787,-120.844773,Oregon,Crook,Prineville - Davidson Park (PDP)
+44.307,-86.242649,Michigan,Manistee,
+44.30738,-88.39509,Wisconsin,Outagamie,APPLETON - AAL
+44.310555,-84.891865,Michigan,Missaukee,LOCATED ABOUT 1/4 MILE WEST OF SITE
+44.312319,-69.786717,Maine,Kennebec,"Augusta, LINCOLN STREET ELEMENTARY SCHOOL (ALSS)"
+44.334686,-90.792025,Wisconsin,Jackson,
+44.348604,-96.807299,South Dakota,Brookings,Research Farm
+44.373056,-110.830833,Wyoming,Teton,Yellowstone National Park - Old Faithful Snow Lodge
+44.373786,-100.287269,South Dakota,Hughes,Pierre Airport
+44.37705,-68.2609,Maine,Hancock,MCFARLAND HILL Air Pollutant Research Site
+44.39308,-73.8589,New York,Essex,WHITEFACE BASE
+44.4438,-95.81789,Minnesota,Lyon,Southwest Minnesota Regional Airport
+44.4762,-73.2106,Vermont,Chittenden,City of Burlington Parking Lot
+44.480278,-73.214444,Vermont,Chittenden,ZAMPIERI STATE OFFICE BUILDING
+44.50729,-87.99344,Wisconsin,Brown,GREEN BAY EAST HIGH
+44.524568,-109.06926,Wyoming,Park,Cody SLAMS site
+44.52839,-72.86884,Vermont,Chittenden,PROCTOR MAPLE RESEARCH CTR
+44.551419,-70.546319,Maine,Oxford,Rumford Avenue Parking Lot (RAP)
+44.657014,-111.089618,Montana,Gallatin,West Yellowstone Park Ent #2
+44.706123,-93.285803,Minnesota,Dakota,Near Road I-35
+44.73846,-93.23725,Minnesota,Dakota,Apple Valley
+44.76249,-91.41445,Wisconsin,Eau Claire,EAU CLAIRE - DOT SIGN SHOP
+44.791437,-93.512534,Minnesota,Scott,B.F. Pearson School
+44.815142,-106.955933,Wyoming,Sheridan,Sheridan - Police Sta. SLAM Site
+44.817398,-68.772762,Maine,Penobscot,Mary Snow School
+44.89965,-97.128802,South Dakota,Codington,Watertown Utility Yard
+44.94805,-93.34315,Minnesota,Hennepin,St. Louis Park City Hall
+44.95072,-93.09827,Minnesota,Ramsey,Ramsey Health Center
+44.95366,-93.25821,Minnesota,Hennepin,Andersen School
+44.95939,-93.03587,Minnesota,Ramsey,Harding High School
+44.963894,-67.061325,Maine,Washington,
+44.965242,-93.254759,Minnesota,Hennepin,Near Road I-35/I-94
+45.13768,-93.207615,Minnesota,Anoka,Anoka County Airport
+45.181897,-113.890285,Idaho,Lemhi,Salmon - Charles St.
+45.206448,-112.64251,Montana,Beaverhead,
+45.2066,-90.5972,Wisconsin,Taylor,PERKINSTOWN
+45.20916,-93.66921,Minnesota,Wright,St. Michael Elementary School
+45.3992,-122.7455,Oregon,Washington,Tualatin - Bradbury Court (TBC) [Near Road]
+45.440295,-105.370283,Montana,Powder River,BROADUS
+45.468596,-98.494061,South Dakota,Brown,Aberdeen Bus Stop
+45.496641,-122.602877,Oregon,Multnomah,"Portland - SE Lafayette St (SEL) [NCore, PAMS]"
+45.528501,-122.972398,Oregon,Washington,Hillsboro - Hare Field (HHF)
+45.549839,-94.13345,Minnesota,Stearns,Talahi School
+45.56498,-88.80859,Wisconsin,Forest,POTAWATOMI
+45.64336,-122.58737,Washington,Clark,Vancouver-NE 84th Ave
+45.806311,-108.425978,Montana,Yellowstone,Billings Lockwood
+46.002602,-112.501247,Montana,Silver Bow,Butte Greeley School
+46.0519,-89.654,Wisconsin,Vilas,TROUT LAKE
+46.243621,-114.158889,Montana,Ravalli,HAMILTON - PS 46
+46.288877,-85.950227,Michigan,Schoolcraft,"Seney National Wildlife Refuge, Germfask, MI"
+46.31932,-119.999677,Washington,Yakima,Sunnyside-S16th St (Harrison Middle School)
+46.38024,-120.33266,Washington,Yakima,TOPPENISH - WARD RD (YAKAMA TRIBE)
+46.39674,-94.1303,Minnesota,Crow Wing,Brainerd Lakes Regional Airport
+46.411389,-105.812778,Montana,Custer,Miles City - Pines Hills
+46.594952,-120.512283,Washington,Yakima,YAKIMA - 4TH AVE
+46.60234,-90.65615,Wisconsin,Ashland,BAD RIVER TRIBAL SCHOOL - ODANAH
+46.658762,-112.013089,Montana,Lewis and Clark,ROSSITER PUMP HOUSE
+46.682299,-68.016195,Maine,Aroostook,RIVERSIDE
+46.698422,-68.038403,Maine,Aroostook,
+46.713694,-92.511722,Minnesota,Carlton,Fond du Lac Band
+46.743657,-92.165998,Minnesota,Saint Louis,Laura MacArthur School
+46.81826,-92.08936,Minnesota,Saint Louis,U of M - Duluth
+46.825425,-100.76821,North Dakota,Burleigh,BISMARCK RESIDENTIAL
+46.842181,-114.021499,Montana,Missoula,MSLA Boyd Park
+46.8505,-111.987164,Montana,Lewis and Clark,NCORE - Sieben Flats
+46.851811,-95.846272,Minnesota,Becker,FWS Wetland Management District
+46.8943,-103.37853,North Dakota,Billings,PAINTED CANYON
+46.933754,-96.85535,North Dakota,Cass,FARGO NW
+46.99364,-120.545,Washington,Kittitas,ELLENSBURG - RUBY ST
+47.012907,-114.224273,Montana,Missoula,French Town - Beckwith
+47.048537,-109.455315,Montana,Fergus,Lewistown
+47.185833,-101.428056,North Dakota,Oliver,HANNOVER
+47.1864,-122.4517,Washington,Pierce,TACOMA - L STREET
+47.22634,-122.46256,Washington,Pierce,Tacoma-S 36th St
+47.2656,-122.3858,Washington,Pierce,TACOMA - ALEXANDER AVE
+47.298611,-101.766944,North Dakota,Mercer,BEULAH NORTH
+47.316577,-116.571281,Idaho,Benewah,St. Maries
+47.342423,-102.645864,North Dakota,Dunn,Lake Ilo
+47.355332,-68.321106,Maine,Aroostook,Public Safety Building
+47.38443,-94.60166,Minnesota,Cass,Leech Lake Nation:
+47.386111,-122.230278,Washington,King,KENT - JAMES & CENTRAL
+47.498535,-122.278385,Washington,King,Tukwila Allentown
+47.523355,-92.536305,Minnesota,Saint Louis,Virginia City Hall
+47.536389,-116.236667,Idaho,Shoshone,Pinehurst
+47.55975,-122.338265,Washington,King,SEATTLE - DUWAMISH
+47.568236,-122.308628,Washington,King,SEATTLE - BEACON HILL
+47.5812,-103.2995,North Dakota,McKenzie,TRNP-NU
+47.592675,-122.627397,Washington,Kitsap,Bremerton-Spruce Ave
+47.597222,-122.319722,Washington,King,Seattle-10th & Weller
+47.663962,-117.257654,Washington,Spokane,Spokane Valley-E Broadway Ave
+47.8679,-104.676944,Montana,Richland,Sidney 201
+47.878159,-95.029172,Minnesota,Beltrami,Red Lake Nation
+47.940861,-101.571583,North Dakota,Ward,Ryder
+47.948622,-91.495574,Minnesota,Lake,Boundary Waters
+47.972085,-89.69098,Minnesota,Cook,Grand Portage Band
+48.054315,-122.171529,Washington,Snohomish,MARYSVILLE - 7TH AVE (Marysville Junior High)
+48.2469,-121.6031,Washington,Snohomish,DARRINGTON - FIR ST (Darrington High School)
+48.317507,-107.862471,Montana,Phillips,Malta
+48.363694,-114.189272,Montana,Flathead,Flathead Valley
+48.391545,-115.553309,Montana,Lincoln,Libby Courthouse Annex
+48.39999,-119.51896,Washington,Okanogan,Omak-Colville Tribe
+48.52059,-122.61428,Washington,Skagit,Anacortes-202 Ave
+48.540373,-109.684432,Montana,Hill,Havre
+48.544448,-117.903425,Washington,Stevens,Colville-E 1St
+48.607406,-112.36384,Montana,Glacier,Cut Bank
+48.64193,-102.4018,North Dakota,Burke,LOSTWOOD NWR
+48.760036,-122.456463,Washington,Whatcom,Bellingham-Pacific St
+58.388497,-134.567237,Alaska,Juneau ,Floyd Dryden Middle School
+61.205861,-149.824602,Alaska,Anchorage ,GARDEN/TRINITY CHRISTIAN CHURCH
+61.534163,-149.031655,Alaska,Matanuska-Susitna ,BUTTE
+64.762641,-147.310279,Alaska,Fairbanks North Star ,North Pole Fire Station #3
+64.84569,-147.727413,Alaska,Fairbanks North Star ,NCORE
+64.84593,-147.69327,Alaska,Fairbanks North Star ,A Street
