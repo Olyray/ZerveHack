@@ -72,31 +72,26 @@ requests
 
 #### Albany Case Study Code (paste directly into `albany_case_study` cell):
 
+> This code is already implemented in `notebooks/01_blind_spot_analysis.ipynb`. The actual `station_mismatches.csv` columns are `high_station`/`low_station` (not `station_a`/`station_b`).
+
 ```python
-from zerve import variable
-import pandas as pd
+# Pulled from validated data — hardcoded fallback for demo reliability
+albany_rows = mismatches_df[
+    mismatches_df['high_station'].str.contains('ALBANY', case=False, na=False)
+].sort_values('aqi_gap', ascending=False)
 
-epa_df = variable("load_data", "epa_df")
-monitors_df = variable("load_data", "monitors_df")
-mismatches_df = variable("load_data", "mismatches_df")
-
-# Hardcoded Albany case study — always works
-albany_date = "2023-06-08"
-albany_station = "Albany"    # match your actual station name column
-burlington_station = "Burlington"
-
-# Pull the comparison row
+row = albany_rows.iloc[0]
 albany_data = {
-    "date": albany_date,
-    "station_a": "Albany, NY",
-    "aqi_a": 166,
-    "station_b": "Burlington, VT",
-    "aqi_b": 11,
-    "distance_miles": 130,
-    "gap": 155,
-    "region": "Adirondack Region, NY"
+    'date': str(row['date'])[:10],
+    'high_station': row['high_station'],   # 'ALBANY COUNTY HEALTH DEPT'
+    'high_aqi': float(row['high_aqi']),    # 166.0
+    'low_station': row['low_station'],     # 'ZAMPIERI STATE OFFICE BUILDING'
+    'low_aqi': float(row['low_aqi']),      # 11.0
+    'distance_miles': float(row['distance_miles']),  # 129.8
+    'aqi_gap': float(row['aqi_gap']),      # 155.0
+    'region': 'Adirondack Region, NY'
 }
-print(f"Albany AQI: {albany_data['aqi_a']} | Burlington AQI: {albany_data['aqi_b']} | Distance: {albany_data['distance_miles']} miles")
+print(f"Albany AQI: {albany_data['high_aqi']:.0f} | Burlington AQI: {albany_data['low_aqi']:.0f} | Distance: {albany_data['distance_miles']:.0f} miles")
 ```
 
 ---
@@ -178,10 +173,10 @@ def check_blind_spot(station_name: str, distance_miles: float):
     """Check if location is in a known blind spot based on mismatches data."""
     if distance_miles < 30:
         return False, "LOW"
-    # Check historical mismatches
+    # Check historical mismatches (actual columns: high_station / low_station)
     match = mismatches_df[
-        (mismatches_df['station_a'].str.contains(station_name, case=False, na=False)) |
-        (mismatches_df['station_b'].str.contains(station_name, case=False, na=False))
+        (mismatches_df['high_station'].str.contains(station_name, case=False, na=False)) |
+        (mismatches_df['low_station'].str.contains(station_name, case=False, na=False))
     ]
     if not match.empty:
         return True, "HIGH"
@@ -252,6 +247,12 @@ def get_risk(
 @app.get("/ghostair/health")
 def health():
     return {"status": "ok", "monitors_loaded": len(monitors_df), "blind_spots_loaded": len(mismatches_df)}
+```
+
+> **Column note:** `station_mismatches.csv` uses `high_station`/`low_station`, not `station_a`/`station_b`. The code above reflects the real schema.
+
+```python
+# (end of api_handler.py)
 ```
 
 #### Deploying the API on Zerve:
